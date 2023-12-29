@@ -1,12 +1,12 @@
 import { SafeAreaView, Text } from 'react-native'
 import React from 'react'
 
-const index = () => {
+const profile = () => {
   return (
     <SafeAreaView>
-      <Text>index</Text>
+      <Text>profile</Text>
     </SafeAreaView>
   )
 }
 
-export default index
+export default profile
